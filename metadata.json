@@ -1,0 +1,6 @@
+{
+  "name": "Mess Management System",
+  "description": "A comprehensive full-stack Mess Management System for Amity University Rajasthan to manage student meal plans, attendance, feedback, and administrative controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
